@@ -1,5 +1,12 @@
 # DevOps Project - Learning Technologies
 
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 This repository contains a Vagrant-based DevOps project designed to help me learn various technologies. Currently, the project consists of multiple virtual machines (VMs) set up using Vagrant and Oracle VirtualBox. Each VM is provisioned with shell scripts to install and configure specific software. Additionally, there is a Java application integrated with a MySQL database.
 
 ### Vagrantfile
